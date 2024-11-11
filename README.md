@@ -1,2 +1,2 @@
 # orgForWork
-Будь как дома, путник...
+Hello world
